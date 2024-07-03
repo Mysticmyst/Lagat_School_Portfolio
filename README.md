@@ -4,4 +4,4 @@ This repository is for the final project of team member(Reynette Lagat) of TEAM 
 ## Team Logo 
 The official logo design made for TEAM SL was focused on the starting initials of both memebers' surnames which were, S and L, accompanied with simply adding the word "team" to describe unity, team spirit and teamwork within the group. The colors and font style of the design are based off of something leaned towards a futuristic look and style. Having 2 unique hues of Lazurite Blue and water carrier, along with shadow effects and all caps letters. Our Logo focuses on being simple yet striking.
 
-## TriSakay Basic App Flow 
+## TriSakay Basic App Flow
