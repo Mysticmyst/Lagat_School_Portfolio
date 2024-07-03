@@ -5,7 +5,7 @@ This user manual offers a thorough overview of how to utilize and navigate the S
 
 # Usage Instructions
 This portfolio contains the following components mentioned below:
-1. **Assets folder** - 
+1. **Assets folder** - The assets folder contains the OneDrive link of the team, which includes all the materials within their final project.
 2. **Coursera Certificate** - This serves as proof of the taken coursera course required to students, under HCI,to bring the course into completion and earn their certificate.
 3. **README** - The read me document includes startup information about this repository and what it encompasses.
 4. **User Manual** - This document gives an overview about what the repository contains and the different information it shall provide.
