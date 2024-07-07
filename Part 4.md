@@ -6,4 +6,4 @@
 
 **[TriSakay_Video_Presentation](https://malayancollegesmindanaoo365-my.sharepoint.com/:v:/g/personal/rmlagat_mcm_edu_ph/EdJIHWICoitIpa6wIfyjUWIBzqpawE57fmjy1tYXVdf2UQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=mQG23k)**
 
-**[TriSakay User Manual](https://malayancollegesmindanaoo365-my.sharepoint.com/:f:/g/personal/rmlagat_mcm_edu_ph/EhxAZ3zIg5lHuBq0ikHmhuUB2JCCqXr3EYWDc6zFvYMrbw?e=DG3OdW)**
+**[TriSakay User Manual](https://malayancollegesmindanaoo365-my.sharepoint.com/:b:/g/personal/rmlagat_mcm_edu_ph/EdSNG4l95UxBprQ3JmP8XFwBXE5TOKnhZdK1q0YpiPg5Ew?e=5vxBw5)**
